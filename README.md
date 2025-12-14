@@ -1,7 +1,7 @@
 # Aircraft Fuel Efficiency Optimization
 ## A Statistical Analysis of Cruise Phase Operations for Commercial Aviation
 
-**DATA 5300: Foundation of Data Science — Seattle University**  
+**DATA 5100: Foundation of Data Science — Seattle University**  
 **December 2025**
 
 ### Team Members
