@@ -255,6 +255,12 @@ This repository uses **Git Large File Storage (Git LFS)** for the large dataset 
 
 This project is licensed under the [MIT License](LICENSE) - Copyright (c) 2025 Duy Nguyen
 
+## Author Contacts:
+
+- [Email](mailto:dnguyen44@seattleu.edu)  
+- [LinkedIn](https://www.linkedin.com/in/duwe-ng/)
+- [Portfolio](https://duyng-portfolio.com/docs/index_portfolio.html)
+
 ---
 
 *Seattle University — Master of Science in Data Science — DATA 5100*
