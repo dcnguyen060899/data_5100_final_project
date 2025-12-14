@@ -4,17 +4,15 @@
 **DATA 5100: Foundation of Data Science — Seattle University**  
 **December 2025**
 
-### Team Members
+### Author
 - Duy Nguyen
-- Hemant
-- Prithika
 
 ### Repository
 [https://github.com/dcnguyen060899/data_5100_02_group_project](https://github.com/dcnguyen060899/data_5100_02_group_project)
 
 ---
 
-## Executive Summary
+## Project Summary
 
 This project analyzes NASA DASHlink flight recorder data from 312 commercial flights (1.88 million measurements) to identify the primary drivers of fuel consumption during cruise operations. Using variance decomposition and sequential regression modeling, we quantify the relative importance of altitude, speed, engine performance, and meteorological conditions.
 
@@ -259,4 +257,4 @@ This project is licensed under the [MIT License](LICENSE) - Copyright (c) 2025 D
 
 ---
 
-*Seattle University — Master of Science in Data Science — DATA 5300-01*
+*Seattle University — Master of Science in Data Science — DATA 5100*
