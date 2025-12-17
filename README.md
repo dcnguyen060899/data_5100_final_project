@@ -6,11 +6,9 @@
 
 ### Author
 - Duy Nguyen
-- Hemant
-- Prithika
 
 ### Repository
-[https://github.com/dcnguyen060899/data_5100_02_group_project](https://github.com/dcnguyen060899/data_5100_02_group_project)
+[https://github.com/dcnguyen060899/data_5100_final_project](https://github.com/dcnguyen060899/data_5100_final_project)
 
 ---
 
